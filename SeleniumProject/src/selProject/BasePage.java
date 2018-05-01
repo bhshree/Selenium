@@ -50,6 +50,7 @@ public class BasePage
 		}
 		driver.navigate().to(url);
 		//driver.manage().window().maximize();
+		System.out.println("Hi this is github server");
 	}
 
 	}
