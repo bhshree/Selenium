@@ -1,7 +1,6 @@
 package selProject;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class BrowserExtend extends BasePage{
 
