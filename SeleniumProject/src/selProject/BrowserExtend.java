@@ -14,7 +14,7 @@ public class BrowserExtend extends BasePage{
 		
 		String title = driver.getTitle();// to get title 28-04
 		System.out.println(title);
-		
+		 
 		String url = driver.getCurrentUrl();  // to get url
 		System.out.println(url);
 		
